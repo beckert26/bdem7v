@@ -2,7 +2,7 @@ includes which working group you plan to attend or participate in from the list 
 
 Working Group:
 
-I plan to work on the  working group.
+I plan to work on the Evolution working group.
 
 Reflection on Podcast:
 

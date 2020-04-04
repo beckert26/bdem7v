@@ -1,5 +1,3 @@
-includes which working group you plan to attend or participate in from the list above, and your own reflections on the podcast.
-
 Working Group:
 
 I plan to work on the Evolution working group.

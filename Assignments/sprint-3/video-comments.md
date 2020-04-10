@@ -1,2 +1,6 @@
-Discussion Summary:
+Discussion Summary:<br>
+<br>
 
+The discussion about the metrics first began by discussin proper formating for evolution metrics specifically. The first metric they discussed was about contributors that have gone inactive. When discussing the content of the metric they criticized many points of the metric. The first criticism on the metric was in the objective section it was a bit redundant and wordy. It's important for metrics to be clear and concise, so it can be quick and easy to read and immediantly understand the objective of the metric. They also decided the objective of the metric isn't whether people are losing interest, but rather if they became inactive which doesn't necessarily mean they lost interest. They next discussed the wording in the implmetation section specifically over the word cutoff. They concluded that cutoff isn't accurate and clear in describing what the metric is doing. They decided a specific time period a contributor hasn't committed would be a better desription. They next briefly discussed a metric about code length. The question section should be one question and they suggested remove the time part of the question. The discussion was focused on whether this metric fit into evolution or value. There seemed to be a general consensus this did fit into evolution since it can demonstrate the overall evolution the code has went through and where it might be going.
+<br>
+Overall the discussion helped me understand how I should be formatting my metric and what I should avoid when creating the metric.

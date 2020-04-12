@@ -7,7 +7,7 @@ My project is a C# Console Application. It uses the corona virus data set from t
 2.) **Top 100 Counties with the most cases:**  Gives a list of the top 100 counties and their cases in order of most cases to least cases. Since there was thousands of counties in the data set I thought it would be most helpful to see the top 100.<br> 
 3.) **Total cases in the last 10 days:** Shows the total overall cases in the last 10 days data has been uploaded to the csv file. This query allows users to see how quickly cases are climbing recently. <br>
 4.) **Total deaths in the last 10 days:** Shows the total overall deaths in the last 10 days data has been uploaded to the csv file. <br>
-5.) **Death rate by state:** Orders the states from highest death rate to lowest deaths rate based on for how many total cases and deaths the state has. <br>
+5.) **Death rate by state:** Orders the states from highest death rate to lowest deaths rate based on for how many total cases and deaths the state has. This query can give you an idea of how good each state is at treating the virus. <br>
 
 ## How to Run ##
 ### Download ###

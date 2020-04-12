@@ -10,6 +10,9 @@ My project is a C# Console Application. It uses the corona virus data set from t
 5.) **Death rate by state:** Orders the states from highest death rate to lowest deaths rate based on for how many total cases and deaths the state has. <br>
 
 ## How to Run ##
-To run the program in this folder go to CoronaCases/CoronaCases/bin/Debug/ and download CoronaCases.exe.
+### Download ###
+To run the program in this folder go to CoronaCases/CoronaCases/bin/Debug/ and download CoronaCases.exe. 
+### How To Use ### 
+Input the number of the query you wish to see and press enter.
 
 

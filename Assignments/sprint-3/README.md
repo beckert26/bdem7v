@@ -1,6 +1,6 @@
 # CoronaCases #
 ## About ##
-My project is a C# Console Application. It uses the corona virus data set from the New York Times. The goal of my program is to pull the csv files into a form that allows me to do Language Integrated Queries (LINQ) on the data set. My program gives the users 5 queries they can run on the data set.
+My project is a C# Console Application. It uses the corona virus data set from the New York Times. The goal of my program is to pull the csv files into a form that allows me to do Language Integrated Queries (LINQ) on the data set. By putting the data in this form I can easily change and add onto my list of queries in the future. My program gives the users 5 queries they can run on the data set.
 <br>The program pulls the csv files from the web everytime it runs, so it continually will have up to date statistics as long as New York times updates their data set.
 ## Queries ##
 <br>1.) **States with the most cases:** Gives a list of the states and their cases in order of most cases to least cases. <br> 

@@ -11,3 +11,4 @@ The program pulls the csv files from the web everytime it runs, so it should con
 ## How to Run ##
 To run the program in this folder go to CoronaCases/CoronaCases/bin/Debug/ and download CoronaCases.exe.
 
+

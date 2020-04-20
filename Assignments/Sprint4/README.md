@@ -1,4 +1,4 @@
-Since sail files are too large to upload to github I had to 7-zip the file to make it small enough. SO the first step in running the program is to extract it's contents with 7-zip.<br>
+Since sail files are too large to upload to github I had to 7-zip the file to make it small enough. So the first step in running the program is to extract it's contents with 7-zip.<br>
 
 1. After it's extracted using the command line navigate to test-sso<br>
 2.  Then run the command: sails lift<br>

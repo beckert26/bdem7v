@@ -1,0 +1,6 @@
+C:\Users\brett\source\repos\CoronaCases\CoronaCases\bin\Release\CoronaCases.exe.config
+C:\Users\brett\source\repos\CoronaCases\CoronaCases\bin\Release\CoronaCases.exe
+C:\Users\brett\source\repos\CoronaCases\CoronaCases\bin\Release\CoronaCases.pdb
+C:\Users\brett\source\repos\CoronaCases\CoronaCases\obj\Release\CoronaCases.csproj.CoreCompileInputs.cache
+C:\Users\brett\source\repos\CoronaCases\CoronaCases\obj\Release\CoronaCases.exe
+C:\Users\brett\source\repos\CoronaCases\CoronaCases\obj\Release\CoronaCases.pdb

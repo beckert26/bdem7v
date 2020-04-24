@@ -1,4 +1,4 @@
-Use the command line navigate to test-sso<br>
+1. Use the command line navigate to test-sso<br>
 2. npm install sails -g
 3. Then run the command: sails lift<br>
 4. Open http://localhost:1337/ in your browser. <br>

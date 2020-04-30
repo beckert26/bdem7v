@@ -1,7 +1,7 @@
 What worked for me was the google flask application after watching your linked video I was able to figure out my authentication problems.
 I was unable to get dex to work. Some of the commands for that tutorial didn't work on my machine and to get them to work I had to download 
 proper files to get the commands such as make and serve to work. Even after I got those to work when I tried to run "./bin/example-app" in 
-commands line nothing happened. Since the flask application ended up working I stuck with that.
+command line nothing happened. I decided just to try Flask and since that worked fairly easily I stuck with that and moved on from dex.
 <br>
 Here's some of sites I visited while trying to set up dex:
 <br>

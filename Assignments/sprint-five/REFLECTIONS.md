@@ -15,5 +15,12 @@ https://superuser.com/questions/808807/using-make-from-windows-powershell
 https://stackoverflow.com/questions/29744010/apk-decompile-error-d2j-dex2jar-command-not-found
 https://golang.org/cmd/go/
 https://www.sdsc.edu/CCMS/DEX/DEX-Install-Tutorial.htm
+
+While setting up Flask I only visited:
+<br>
+https://realpython.com/flask-google-login/#creating-your-own-web-application
+https://github.com/computationalmystic/MU-Software-Engineering/blob/master/assignments/13b.-team-sprint-5.md
+https://console.developers.google.com/apis/credentials
+https://vimeo.com/413390218
 <br><br>
 I hope by the end of the semester with sso I could have an app that maybe lists a bunch of my favorite movie clips and a user could favorite certain ones that are saved after they log back in.

@@ -2,4 +2,4 @@ The purpose of my application is to allow users to sign in and then view a video
 profile picture. I also added a youtube clip of the ending scenes of one of my favorite movies Whiplash. The overall goal of my application 
 is mostly for self-learning purpose, but also the application displays a video.
 <br>
-Overal I hope to make a website that saves users favorite clips based on who signed in and display those clips.
+Overal I hope to make a website that allows users to insert links of their favorite videos and then it will output these clips.
